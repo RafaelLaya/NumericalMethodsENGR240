@@ -752,7 +752,6 @@ def ODE_system_example(function, lab1, lab2):
     plt.plot(t, solV(t), label="Analytical v")
     plt.grid()
     figManager = plt.get_current_fig_manager()
-    # figManager.window.showMaximized()
     plt.legend()
     plt.show()
 

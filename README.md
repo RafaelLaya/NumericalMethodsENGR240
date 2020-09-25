@@ -1,5 +1,5 @@
 # NumericalMethodsENGR240
-Provides Methods for Numerical Methods. Includes tools for root-finding, integration, Ordinary differential equations (initial value problems for single equations or systems of equations), optimization, linear algebra, differentiation, and curve fitting. The code was developed for an ENGR240 class (Introduction to Numerical Methods, Winter 2019).
+Provides Methods for Numerical Methods. Includes tools for root-finding, integration, Ordinary differential equations (initial value problems for single equations or systems of equations), optimization, linear algebra, differentiation, and curve fitting. The code was developed for an ENGR240 class (Introduction to Numerical Methods, late 2018/early 2019).
 
 # Dependencies
 * Matplotlib
