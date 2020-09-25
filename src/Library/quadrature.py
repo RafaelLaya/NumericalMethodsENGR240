@@ -457,7 +457,7 @@ def open_romberg(func, a, b, n, tol=0.001, max_iter=20):
     return A[0][np.shape(A)[1] - 1]
 
 
-def guass_leg_2(func, a, b):
+def gauss_leg_2(func, a, b):
     """ Approximates the integral of a real function func of a single real variable over the interval [a, b]
     Uses gauss-legendre formulas which (in general) require a change of variables so that the interval is transformed
     T: [a, b] -> [-1, 1]
