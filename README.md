@@ -1,5 +1,5 @@
 # Numerical Methods 
-Provides Methods for Numerical Methods. Includes tools for root-finding, integration, Ordinary differential equations (initial value problems for single equations or systems of equations), optimization, linear algebra, differentiation, and curve fitting. This code was written back in 2018 as a side project while I was taking a class on Numerical Methods.
+Provides Methods for Numerical Methods. Includes tools for root-finding, integration, Ordinary differential equations (initial value problems for single equations or systems of equations), optimization, linear algebra, differentiation, and curve fitting. 
 
 # Dependencies
 * The example application requires Matplotlib
